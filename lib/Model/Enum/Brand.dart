@@ -1,0 +1,4 @@
+enum Brand{
+  NIKE,
+  ADIDAS
+}
